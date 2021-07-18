@@ -1,11 +1,12 @@
 
-function App() {
-  const name ='Guru charan'
+import Header from "./component/Header";
+
+const App =() => {
   return (
-    <div className="App">
-     <h1>Hello {name}</h1>
+    <div className="container">
+    <Header title='Hello'/>
     </div>
-  );
+  )
 }
 
 export default App;
