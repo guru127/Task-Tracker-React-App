@@ -1,10 +1,7 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "text": "meeting",
-      "day": "jan 2nd 2020 at 1:20pm",
-      "reminder": true
+      "id": 2
     },
     {
       "id": 3,
